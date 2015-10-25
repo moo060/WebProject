@@ -13,7 +13,7 @@ dl.csslinegraph, dl.csslinegraph dt, dl.csslinegraph dd{
 dl.csslinegraph{
 	background:url(bg_chart.gif) no-repeat 0 0;
 	width:567px;
-	height:4385px;
+	height:800px;
 	} 
 dl.csslinegraph dt{
 	display:none;
