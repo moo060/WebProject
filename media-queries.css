@@ -10,7 +10,7 @@ smaller than 980
 
 	/* content */
 	#content {
-		width: 60%;
+		width: 50%;
 		padding: 3% 4%;
 	}
 
@@ -29,7 +29,7 @@ smaller than 980
 	.video iframe {
 		width: 100%;
 		height: auto;
-		min-height: 300px;
+		min-height: 250px;
 	}
 
 }
